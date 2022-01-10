@@ -44,3 +44,17 @@
     background-color: #8a2b06;
     color: white;
 }
+
+.error-message {
+    color: #8a2b06;
+    font-size: 1.3rem;
+    padding: 0 1rem;
+    margin: 2rem 0;
+}
+
+.success {
+    color: green;
+    font-size: 1.3rem;
+    padding: 0 1rem;
+    margin: 2rem 0;
+}
